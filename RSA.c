@@ -76,4 +76,6 @@ int main() {
 	printf("복호화가 완료되었습니다.\n");
 	printf("복호문: ");
 	printf("%f", decrypt);
+
+	printf("gittest\n");
 }
